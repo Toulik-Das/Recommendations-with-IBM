@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Recommendations-with-IBM
+![rec_01](https://user-images.githubusercontent.com/39211262/81259900-84ee0500-9056-11ea-8034-5f18ebc250d1.jpg)
+### Motivation
+Recommendation engines are one of the most important data science applications in use today. Data science is being used to recommend everything from music & movies to friends and new destinations. The three main branches of recommenders are:
 
-You can use the [editor on GitHub](https://github.com/Toulik-Das/Recommendations-with-IBM/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Toulik-Das/Recommendations-with-IBM/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Knowledge-Based
+- Content-Based
+- Collaborative Filtering
