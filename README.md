@@ -17,3 +17,4 @@ In this Project, I analyse the interactions that users have with articles on the
 
 ## Data
 There are two types of data. One contains user-item info, like which user read which article, and another is articles’ info (like description, title and body content).
+
