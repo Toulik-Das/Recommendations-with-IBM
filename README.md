@@ -18,3 +18,13 @@ In this Project, I analyse the interactions that users have with articles on the
 ## Data
 There are two types of data. One contains user-item info, like which user read which article, and another is articles’ info (like description, title and body content).
 
+## Python Library Used 
+ - Pandas
+ - Numpy
+ - Scipy
+ - Scikit-learn
+ - Matplotlib
+## Accuracy
+![download](https://user-images.githubusercontent.com/39211262/81260998-d3040800-9058-11ea-9fa0-d065ca8f7de7.png)
+![download (1)](https://user-images.githubusercontent.com/39211262/81261001-d4353500-9058-11ea-8cd3-a3d19c1ebc9a.png)
+
