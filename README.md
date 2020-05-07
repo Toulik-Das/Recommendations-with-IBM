@@ -28,3 +28,6 @@ There are two types of data. One contains user-item info, like which user read w
 ![download](https://user-images.githubusercontent.com/39211262/81260998-d3040800-9058-11ea-9fa0-d065ca8f7de7.png)
 ![download (1)](https://user-images.githubusercontent.com/39211262/81261001-d4353500-9058-11ea-8cd3-a3d19c1ebc9a.png)
 
+## 5. Credits and Acknowledgements
+
+Thanks <a href="https://www.udacity.com" target="_blank">Udacity</a> for all the supports. Also thanks to <a href="https://www.ibm.com/in-en/watson" target="_blank">IBM</a> for providing the dataset.
